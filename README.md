@@ -33,3 +33,4 @@ If y represents the dependent variable and x the independent variable, this rela
    Thus to analyse given data using coeffificient of correlation and regression line is successful 
     
    
+https://github.com/Tharunramaids/Correlation_Regression
